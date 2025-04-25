@@ -1,6 +1,6 @@
-### SAS Code
+# SAS Code Portfolio
 ## Contents 
-# Personal Projects 
+### Personal Projects 
 
 1. Online Retail Buyer Behavior
    Data Source: https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
